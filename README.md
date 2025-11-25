@@ -84,11 +84,11 @@ The project includes a small automated test suite using pytest to verify whether
 - Behavior when no conversation history exists
 
 # *Test File*
-    ```bash
-    tests.py
-    ```
+   ```bash
+   tests.py
+   ```
 # *To run Tests*
-    ```bash
-    pytest tests.py
+   ```bash
+   tests.py
     ```
 
