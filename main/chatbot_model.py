@@ -30,6 +30,8 @@ knowledge_base = {
     "I was charged incorrectly": "I apologize for the confusion. I will check the billing details for you.",
     "This is the worst experience ever": "I'm very sorry you feel this way. I will personally help fix the issue.",
     "I am frustated": "I'm very sorry you feel this way. I will personally help fix the issue.",
+    "This is fraud": "I'm very sorry you feel this way. I will personally help fix the issue.",
+    "This is wrong": "I'm very sorry you feel this way. I will personally help fix the issue.",
 
     # Neutral / Clarification Questions
     "How do I contact customer care?": "You can contact us through live chat, email, or our toll-free number.",

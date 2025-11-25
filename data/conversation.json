@@ -1,7 +1,55 @@
 [
     {
         "role": "user",
-        "message": "I got a broken product",
+        "message": "I am not happy with the way you are acting",
+        "sentiment": "Negative",
+        "score": -0.4585
+    },
+    {
+        "role": "bot",
+        "message": "I'm sorry to hear that. I will help you resolve the issue immediately.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "It is frustrating",
+        "sentiment": "Negative",
+        "score": -0.4404
+    },
+    {
+        "role": "bot",
+        "message": "You can contact us through live chat, email, or our toll-free number.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "I am angry",
+        "sentiment": "Negative",
+        "score": -0.6705
+    },
+    {
+        "role": "bot",
+        "message": "I'm sorry to hear that. I will help you resolve the issue immediately.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "I want a refund",
+        "sentiment": "Negative",
+        "score": -0.5719
+    },
+    {
+        "role": "bot",
+        "message": "I understand your concern. I will help you with the refund process.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "My product is broken",
         "sentiment": "Negative",
         "score": -0.5423
     },
@@ -13,9 +61,21 @@
     },
     {
         "role": "user",
-        "message": "It is not good",
+        "message": "My order is delayed",
         "sentiment": "Negative",
-        "score": -0.3724
+        "score": -0.2263
+    },
+    {
+        "role": "bot",
+        "message": "I apologize for the delay. Let me check your order status right away.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "I am not happy with this service",
+        "sentiment": "Negative",
+        "score": -0.3607
     },
     {
         "role": "bot",
@@ -25,49 +85,13 @@
     },
     {
         "role": "user",
-        "message": "I am frustrated with your service",
-        "sentiment": "Negative",
-        "score": -0.4404
-    },
-    {
-        "role": "bot",
-        "message": "I'm sorry to hear that. I will help you resolve the issue immediately.",
-        "sentiment": "neutral",
-        "score": 0
-    },
-    {
-        "role": "user",
-        "message": "This is a bad experience",
+        "message": "The product is broken",
         "sentiment": "Negative",
         "score": -0.5423
     },
     {
         "role": "bot",
-        "message": "You can contact us through live chat, email, or our toll-free number.",
-        "sentiment": "neutral",
-        "score": 0
-    },
-    {
-        "role": "user",
-        "message": "your service is awesome",
-        "sentiment": "Positive",
-        "score": 0.6808
-    },
-    {
-        "role": "bot",
-        "message": "Thank you for your kind feedback! It motivates us to keep improving.",
-        "sentiment": "neutral",
-        "score": 0
-    },
-    {
-        "role": "user",
-        "message": "your service is awesome",
-        "sentiment": "Positive",
-        "score": 0.6808
-    },
-    {
-        "role": "bot",
-        "message": "We appreciate your feedback! Thank you for trusting us.",
+        "message": "I'm really sorry to hear that. I will assist you with a replacement.",
         "sentiment": "neutral",
         "score": 0
     }
