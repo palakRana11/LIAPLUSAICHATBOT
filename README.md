@@ -89,6 +89,6 @@ The project includes a small automated test suite using pytest to verify whether
    ```
 # *To run Tests*
    ```bash
-   tests.py
-    ```
+   pytest tests.py
+   ```
 
