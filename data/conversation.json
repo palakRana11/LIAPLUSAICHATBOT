@@ -1,0 +1,74 @@
+[
+    {
+        "role": "user",
+        "message": "I got a broken product",
+        "sentiment": "Negative",
+        "score": -0.5423
+    },
+    {
+        "role": "bot",
+        "message": "I'm really sorry to hear that. I will assist you with a replacement.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "It is not good",
+        "sentiment": "Negative",
+        "score": -0.3724
+    },
+    {
+        "role": "bot",
+        "message": "I'm sorry to hear that. I will help you resolve the issue immediately.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "I am frustrated with your service",
+        "sentiment": "Negative",
+        "score": -0.4404
+    },
+    {
+        "role": "bot",
+        "message": "I'm sorry to hear that. I will help you resolve the issue immediately.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "This is a bad experience",
+        "sentiment": "Negative",
+        "score": -0.5423
+    },
+    {
+        "role": "bot",
+        "message": "You can contact us through live chat, email, or our toll-free number.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "your service is awesome",
+        "sentiment": "Positive",
+        "score": 0.6808
+    },
+    {
+        "role": "bot",
+        "message": "Thank you for your kind feedback! It motivates us to keep improving.",
+        "sentiment": "neutral",
+        "score": 0
+    },
+    {
+        "role": "user",
+        "message": "your service is awesome",
+        "sentiment": "Positive",
+        "score": 0.6808
+    },
+    {
+        "role": "bot",
+        "message": "We appreciate your feedback! Thank you for trusting us.",
+        "sentiment": "neutral",
+        "score": 0
+    }
+]
